@@ -1,8 +1,8 @@
-# Jarot
+# SHENDY && SURVIV OFC 
 
-<img src="https://telegra.ph/file/696076406bf2516adb1fd.jpg" width="200" height="200"/>
+<img src="https://i.ibb.co/CWx7LWQ/20221114-123229.jpg" width="200" height="200"/>
 
 
 # NOTE: DILARANG MENJUAL BELIKAN SCRIPT 
 
-# terserah-
+# males-
