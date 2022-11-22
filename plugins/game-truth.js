@@ -18,7 +18,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
            hydratedContentText: menu2nih.trim(),
            locationMessage: { 
            jpegThumbnail: fs.readFileSync('./src/truthordare.jpg') },
-           hydratedFooterText: `© Created By GansBOTz`,
+           hydratedFooterText: `© Created By 𝑆𝐻𝐸𝑁𝐷𝑌`,
            hydratedButtons: [{
              quickReplyButton: {
                displayText: 'N͜͡E͜͡X͜͡T͜͡',
